@@ -30,7 +30,6 @@ Traffic-volume-estimator/
 │ └── output.html # Prediction result display
 ├── notebook/
 │ ├── traffic volume estimation1.ipynb # Training & analysis notebook
-│ └── traffic volume estimation1-checkpoint.ipynb # Auto-saved checkpoint
 ├── requirements.txt # Python dependencies
 └── README.md
 ```
